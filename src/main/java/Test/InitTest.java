@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 
 import static org.junit.Assert.*;
 
@@ -8,7 +8,7 @@ import Activiti.OrderedBusinessFlow;
 import AppGenFiles.SequenceFlowInfo;
 import AppGenFiles.TaskInfo;
 //These Test Case Just Test Classes Which Have No Functions
-public class InitTests {
+public class InitTest {
 
 	@Test
 	public void testo1() {

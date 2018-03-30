@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -6,7 +6,7 @@ import AppGenFiles.NewDriver;
 import junit.framework.TestCase;
 import org.junit.Test;
 
-public class NewDriverTests  {
+public class NewDriverTest {
 	
 	@Test
 	public void DriverTest()

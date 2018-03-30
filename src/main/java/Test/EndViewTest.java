@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 
 import static org.junit.Assert.*;
 
@@ -9,7 +9,7 @@ import my.vaadin.FirstActivitiGUI.EnumField;
 import my.vaadin.FirstActivitiGUI.FormProperties;
 import my.vaadin.FirstActivitiGUI.LoginView;
 
-public class EndViewTests {
+public class EndViewTest {
 
 	@Test
 	public void test() {

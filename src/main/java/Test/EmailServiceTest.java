@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 
 import static org.junit.Assert.*;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 import AppGenFiles.EmailService;
 import AppGenFiles.EmailServiceTask;
 
-public class EmailServiceTests {
+public class EmailServiceTest {
 
 	@Test
 	public void EmailServiceTest01() {

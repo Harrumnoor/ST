@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 import static org.junit.Assert.fail;
 
 import java.net.URI;
@@ -10,7 +10,7 @@ import GUI.EmailServiceInterface;
 import GUI.WebPageGen;
 import AppGenFiles.EmailServiceTask;
 import AppGenFiles.NewDriver;
-public class EmailServiceInterfaceTests {
+public class EmailServiceInterfaceTest{
 	
 		
    

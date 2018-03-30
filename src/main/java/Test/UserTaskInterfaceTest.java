@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
@@ -17,7 +17,7 @@ import AppGenFiles.NewDriver;
 import my.vaadin.FirstActivitiGUI.EnumField;
 import my.vaadin.FirstActivitiGUI.FormProperties;
 
-public class UserTaskInterfaceTests {
+public class UserTaskInterfaceTest {
 	
 	@Test
 	public void displayUserTaskFormTest()

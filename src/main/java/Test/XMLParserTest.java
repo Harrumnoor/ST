@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 
 import static org.junit.Assert.*;
 
@@ -15,7 +15,7 @@ import AppGenFiles.UserTask;
 import AppGenFiles.XMLParser;
 import GUI.WebPageGen;
 
-public class XMLParserTests {
+public class XMLParserTest {
 
 	@Test
 	public void isPresentTest() {

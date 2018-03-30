@@ -1,4 +1,4 @@
-package Tests;
+package Test;
 
 import static org.junit.Assert.*;
 
@@ -23,7 +23,7 @@ import AppGenFiles.UserTask;
 import GUI.WebPageGen;
 import junit.framework.TestCase;
 import AppGenFiles.NewDriver;
-public class WebPageGenTests {
+public class WebPageGenTest {
 
 	
 @Test
