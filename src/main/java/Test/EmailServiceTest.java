@@ -10,7 +10,7 @@ import AppGenFiles.EmailServiceTask;
 public class EmailServiceTest {
 
 	@Test
-	public void EmailServiceTest01() {
+	public void testEmailServiceTest01() {
 		try
 		{
 		EmailServiceTask et = new EmailServiceTask();
@@ -32,7 +32,7 @@ public class EmailServiceTest {
 	
 	
 	@Test
-	public void EmailServiceTest02() {
+	public void testEmailServiceTest02() {
 		boolean flag=false;
 		try
 		{
@@ -54,7 +54,7 @@ public class EmailServiceTest {
 	
 
 	@Test
-	public void EmailServiceTaskTest01() {
+	public void testEmailServiceTaskTest01() {
 		try
 		{
 			EmailServiceTask et = new EmailServiceTask();
